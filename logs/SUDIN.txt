@@ -1,0 +1,12 @@
+Borrowed 'Harry Potter' on '2019-03-29' at '$2'.
+Returned 'Harry Potter' on '2019-03-29' and fine '$0'.
+Borrowed 'Harry Potter' on '2019-03-29' at '$2'.
+Borrowed 'Harry Potter' on '2019-05-21' at '$2'.
+Returned 'Harry Potter' on '2019-05-21' and fine '$21.5'.
+Borrowed 'Programming With Python' on '2019-11-30' at '$1.5'.
+Borrowed 'Programming With Python' on '2019-11-30' at '$1.5'.
+Returned 'Harry Potter' on '2019-11-30' and fine '$91.5'.
+Returned 'Harry Potter' on '2019-11-30' and fine '$0'.
+Returned 'Harry Potter' on '2019-11-30' and fine '$0'.
+Borrowed 'Harry Potter' on '2020-07-26' at '$2'.
+Borrowed 'Start With Why' on '2020-07-26' at '$1.5'.
